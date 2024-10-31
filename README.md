@@ -6,7 +6,5 @@ This project, part of the CS918 Natural Language Processing course (MSc Data Ana
 ### Features
 - **NLP Techniques**: POS tagging, TF-IDF, GloVe, and BART
 - **Models Used**: SVM, Naïve Bayes, Logistic Regression, Bidirectional LSTM with Attention
-- **Language**: Python 3.10.9
-- **Packages**: `tqdm`, `emoji`, `transformers`
 
 **Grade**: A
